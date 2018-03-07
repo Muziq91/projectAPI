@@ -1,25 +1,22 @@
 [
 	{
-		"title":"Contract de Administrare",
-		{
-			"id":"6e462a39-3c37-4874-ab97-1e6712f6d558", 
-			"title":"PARTILE CONTRACTANTE",
-			"paragraphs":[
-				{
-					"id":"f9457965-c1b1-4749-94c4-8c763ee0d18b", 
-					"title":"", 
-					"body":"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget"
-				}]
-		},
-		{
-			"id":"fa17e33e-cea6-4d1f-8ba3-48c977d9885f", 
-			"title":"OBIECTUL CONTRACTULUI",
-			"paragraphs":[
-				{
-					"id":"2df297e2-9fe1-4be6-a5ed-678284d3fb86", 
-					"title":"", 
-					"body":"Obiectul contractului il constituie ADMINISTRAREA APARTAMENTULUI CU NR. .........., situat in ............., str. ..........., nr. ..., bl. ..., sc. ..., et. ..., compus din: ................................................................................ (camere, bucatarii, debarale, grupuri sanitare, balcoane etc.), apartament ce se gaseste in stare buna de folosinta."
-				}]
-		}
+		"id":"6e462a39-3c37-4874-ab97-1e6712f6d558", 
+		"title":"PARTILE CONTRACTANTE",
+		"paragraphs":[
+			{
+				"id":"f9457965-c1b1-4749-94c4-8c763ee0d18b", 
+				"title":"", 
+				"body":"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget"
+			}]
+	},
+	{
+		"id":"fa17e33e-cea6-4d1f-8ba3-48c977d9885f", 
+		"title":"OBIECTUL CONTRACTULUI",
+		"paragraphs":[
+			{
+				"id":"2df297e2-9fe1-4be6-a5ed-678284d3fb86", 
+				"title":"", 
+				"body":"Obiectul contractului il constituie ADMINISTRAREA APARTAMENTULUI CU NR. .........., situat in ............., str. ..........., nr. ..., bl. ..., sc. ..., et. ..., compus din: ................................................................................ (camere, bucatarii, debarale, grupuri sanitare, balcoane etc.), apartament ce se gaseste in stare buna de folosinta."
+			}]
 	}
 ]
