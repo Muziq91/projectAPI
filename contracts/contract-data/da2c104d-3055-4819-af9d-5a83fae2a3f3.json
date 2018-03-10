@@ -18,5 +18,20 @@
 				"title":"", 
 				"body":"Obiectul contractului il constituie ADMINISTRAREA APARTAMENTULUI CU NR. .........., situat in ............., str. ..........., nr. ..., bl. ..., sc. ..., et. ..., compus din: ................................................................................ (camere, bucatarii, debarale, grupuri sanitare, balcoane etc.), apartament ce se gaseste in stare buna de folosinta."
 			}]
+	},
+	{
+		"id":"33ea01e9-5d0d-4e15-8346-16579516b0a7", 
+		"type":"SIGN_PARAGRAPH",
+		"paragraphs":[
+			{
+				"id":"e1bd8b1a-e9f7-44b9-b0d8-1b5d3293e2cf", 
+				"title":"", 
+				"body":"PROPRIETAR <br /> ......................................... <br /> (Numele)"
+			},
+			{
+				"id":"c63d3e94-6a60-43b3-bd55-3785c2d01734", 
+				"title":"", 
+				"body":"ADMINISTRATOR <br /> S.C. ......................................... <br /> reprezetnat prin <br /> ......................................... <br />(Numele)"
+			}]
 	}
 ]
