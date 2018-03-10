@@ -2,6 +2,7 @@
 	{
 		"id":"6e462a39-3c37-4874-ab97-1e6712f6d558", 
 		"title":"PARTILE CONTRACTANTE",
+		"type":"BASIC_SECTION",
 		"paragraphs":[
 			{
 				"id":"f9457965-c1b1-4749-94c4-8c763ee0d18b", 
@@ -12,6 +13,7 @@
 	{
 		"id":"fa17e33e-cea6-4d1f-8ba3-48c977d9885f", 
 		"title":"OBIECTUL CONTRACTULUI",
+		"type":"BASIC_SECTION",
 		"paragraphs":[
 			{
 				"id":"2df297e2-9fe1-4be6-a5ed-678284d3fb86", 
@@ -20,8 +22,9 @@
 			}]
 	},
 	{
-		"id":"33ea01e9-5d0d-4e15-8346-16579516b0a7", 
-		"type":"SIGN_PARAGRAPH",
+		"id":"33ea01e9-5d0d-4e15-8346-16579516b0a7",
+		"type":"",
+		"type":"SIGN_SECTION",
 		"paragraphs":[
 			{
 				"id":"e1bd8b1a-e9f7-44b9-b0d8-1b5d3293e2cf", 
