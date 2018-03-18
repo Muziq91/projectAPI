@@ -1,5 +1,29 @@
 [
 	{
+		"id":"0ebcd5f0-3ca2-43a8-9196-b1dbbca2e858",
+		"type":"",
+		"type":"SIGN_SECTION",
+		"paragraphs":[
+			{
+				"id":"ad5b334c-4e80-41c9-8d94-c674c4cf032f", 
+				"title":"", 
+				"alignType":"LEFT",
+				"body":"Data: \n ......................................... \n"
+			}]
+	},
+	{
+		"id":"40e067d2-fd58-49e7-82a9-9f58e60d9b5e",
+		"type":"",
+		"type":"SIGN_SECTION",
+		"paragraphs":[
+			{
+				"id":"9316747f-f7e3-4e39-862d-0804969f10ef", 
+				"title":"", 
+				"alignType":"RIGHT",
+				"body":"Numarul \n ......................................... \n"
+			}]
+	},
+	{
 		"id":"6e462a39-3c37-4874-ab97-1e6712f6d558", 
 		"title":"PARTILE CONTRACTANTE 1",
 		"type":"BASIC_SECTION",
@@ -73,11 +97,13 @@
 			{
 				"id":"e1bd8b1a-e9f7-44b9-b0d8-1b5d3293e2cf", 
 				"title":"", 
+				"alignType":"LEFT",
 				"body":"PROPRIETAR \n ......................................... \n (Numele)"
 			},
 			{
 				"id":"c63d3e94-6a60-43b3-bd55-3785c2d01734", 
 				"title":"", 
+				"alignType":"RIGHT",
 				"body":"ADMINISTRATOR \n S.C. ......................................... \n reprezetnat prin \n ......................................... \n(Numele)"
 			}]
 	}
