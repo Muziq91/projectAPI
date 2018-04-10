@@ -2,7 +2,257 @@
 		{
 			"id":"da2c104d-3055-4819-af9d-5a83fae2a3f3",
 			"category":"Movies",
-			"title":"Movie Monsters",
+			"title":"Movie Monsters 1",
+			"text":" Who was the first female monster to appear in a movie?",
+			"answers":[
+				{
+					"id":"ad5b334c-4e80-41c9-8d94-c674c4cf032f", 
+					"text":"Dracula's Daughter"					
+				},
+				{
+					"id":"ad5b334c-4e80-41c9-8d94-c674c4cf031g", 
+					"text":"Bride of Frankenstein"					
+				},
+				{
+					"id":"ad5b334c-4e80-41c9-8d94-c674c4cf030h", 
+					"text":"The Astounding She-Monster"					
+				},
+				{
+					"id":"ad5b334c-4e80-41c9-8d94-c674c4cf033j", 
+					"text":"The She-Creature"					
+				}
+				],
+			"correctAnswer":"ad5b334c-4e80-41c9-8d94-c674c4cf031g"
+		},
+				{
+			"id":"da2c104d-3055-4819-af9d-5a83fae2a3f3",
+			"category":"Movies",
+			"title":"Movie Monsters 2",
+			"text":" Who was the first female monster to appear in a movie?",
+			"answers":[
+				{
+					"id":"ad5b334c-4e80-41c9-8d94-c674c4cf032f", 
+					"text":"Dracula's Daughter"					
+				},
+				{
+					"id":"ad5b334c-4e80-41c9-8d94-c674c4cf031g", 
+					"text":"Bride of Frankenstein"					
+				},
+				{
+					"id":"ad5b334c-4e80-41c9-8d94-c674c4cf030h", 
+					"text":"The Astounding She-Monster"					
+				},
+				{
+					"id":"ad5b334c-4e80-41c9-8d94-c674c4cf033j", 
+					"text":"The She-Creature"					
+				}
+				],
+			"correctAnswer":"ad5b334c-4e80-41c9-8d94-c674c4cf031g"
+		},
+				{
+			"id":"da2c104d-3055-4819-af9d-5a83fae2a3f3",
+			"category":"Movies",
+			"title":"Movie Monsters 3",
+			"text":" Who was the first female monster to appear in a movie?",
+			"answers":[
+				{
+					"id":"ad5b334c-4e80-41c9-8d94-c674c4cf032f", 
+					"text":"Dracula's Daughter"					
+				},
+				{
+					"id":"ad5b334c-4e80-41c9-8d94-c674c4cf031g", 
+					"text":"Bride of Frankenstein"					
+				},
+				{
+					"id":"ad5b334c-4e80-41c9-8d94-c674c4cf030h", 
+					"text":"The Astounding She-Monster"					
+				},
+				{
+					"id":"ad5b334c-4e80-41c9-8d94-c674c4cf033j", 
+					"text":"The She-Creature"					
+				}
+				],
+			"correctAnswer":"ad5b334c-4e80-41c9-8d94-c674c4cf031g"
+		},
+				{
+			"id":"da2c104d-3055-4819-af9d-5a83fae2a3f3",
+			"category":"Movies",
+			"title":"Movie Monsters 4",
+			"text":" Who was the first female monster to appear in a movie?",
+			"answers":[
+				{
+					"id":"ad5b334c-4e80-41c9-8d94-c674c4cf032f", 
+					"text":"Dracula's Daughter"					
+				},
+				{
+					"id":"ad5b334c-4e80-41c9-8d94-c674c4cf031g", 
+					"text":"Bride of Frankenstein"					
+				},
+				{
+					"id":"ad5b334c-4e80-41c9-8d94-c674c4cf030h", 
+					"text":"The Astounding She-Monster"					
+				},
+				{
+					"id":"ad5b334c-4e80-41c9-8d94-c674c4cf033j", 
+					"text":"The She-Creature"					
+				}
+				],
+			"correctAnswer":"ad5b334c-4e80-41c9-8d94-c674c4cf031g"
+		},
+				{
+			"id":"da2c104d-3055-4819-af9d-5a83fae2a3f3",
+			"category":"Movies",
+			"title":"Movie Monsters 5",
+			"text":" Who was the first female monster to appear in a movie?",
+			"answers":[
+				{
+					"id":"ad5b334c-4e80-41c9-8d94-c674c4cf032f", 
+					"text":"Dracula's Daughter"					
+				},
+				{
+					"id":"ad5b334c-4e80-41c9-8d94-c674c4cf031g", 
+					"text":"Bride of Frankenstein"					
+				},
+				{
+					"id":"ad5b334c-4e80-41c9-8d94-c674c4cf030h", 
+					"text":"The Astounding She-Monster"					
+				},
+				{
+					"id":"ad5b334c-4e80-41c9-8d94-c674c4cf033j", 
+					"text":"The She-Creature"					
+				}
+				],
+			"correctAnswer":"ad5b334c-4e80-41c9-8d94-c674c4cf031g"
+		},
+				{
+			"id":"da2c104d-3055-4819-af9d-5a83fae2a3f3",
+			"category":"Movies",
+			"title":"Movie Monsters 6",
+			"text":" Who was the first female monster to appear in a movie?",
+			"answers":[
+				{
+					"id":"ad5b334c-4e80-41c9-8d94-c674c4cf032f", 
+					"text":"Dracula's Daughter"					
+				},
+				{
+					"id":"ad5b334c-4e80-41c9-8d94-c674c4cf031g", 
+					"text":"Bride of Frankenstein"					
+				},
+				{
+					"id":"ad5b334c-4e80-41c9-8d94-c674c4cf030h", 
+					"text":"The Astounding She-Monster"					
+				},
+				{
+					"id":"ad5b334c-4e80-41c9-8d94-c674c4cf033j", 
+					"text":"The She-Creature"					
+				}
+				],
+			"correctAnswer":"ad5b334c-4e80-41c9-8d94-c674c4cf031g"
+		},
+				{
+			"id":"da2c104d-3055-4819-af9d-5a83fae2a3f3",
+			"category":"Movies",
+			"title":"Movie Monsters 7",
+			"text":" Who was the first female monster to appear in a movie?",
+			"answers":[
+				{
+					"id":"ad5b334c-4e80-41c9-8d94-c674c4cf032f", 
+					"text":"Dracula's Daughter"					
+				},
+				{
+					"id":"ad5b334c-4e80-41c9-8d94-c674c4cf031g", 
+					"text":"Bride of Frankenstein"					
+				},
+				{
+					"id":"ad5b334c-4e80-41c9-8d94-c674c4cf030h", 
+					"text":"The Astounding She-Monster"					
+				},
+				{
+					"id":"ad5b334c-4e80-41c9-8d94-c674c4cf033j", 
+					"text":"The She-Creature"					
+				}
+				],
+			"correctAnswer":"ad5b334c-4e80-41c9-8d94-c674c4cf031g"
+		},
+				{
+			"id":"da2c104d-3055-4819-af9d-5a83fae2a3f3",
+			"category":"Movies",
+			"title":"Movie Monsters 8",
+			"text":" Who was the first female monster to appear in a movie?",
+			"answers":[
+				{
+					"id":"ad5b334c-4e80-41c9-8d94-c674c4cf032f", 
+					"text":"Dracula's Daughter"					
+				},
+				{
+					"id":"ad5b334c-4e80-41c9-8d94-c674c4cf031g", 
+					"text":"Bride of Frankenstein"					
+				},
+				{
+					"id":"ad5b334c-4e80-41c9-8d94-c674c4cf030h", 
+					"text":"The Astounding She-Monster"					
+				},
+				{
+					"id":"ad5b334c-4e80-41c9-8d94-c674c4cf033j", 
+					"text":"The She-Creature"					
+				}
+				],
+			"correctAnswer":"ad5b334c-4e80-41c9-8d94-c674c4cf031g"
+		},
+				{
+			"id":"da2c104d-3055-4819-af9d-5a83fae2a3f3",
+			"category":"Movies",
+			"title":"Movie Monsters 9",
+			"text":" Who was the first female monster to appear in a movie?",
+			"answers":[
+				{
+					"id":"ad5b334c-4e80-41c9-8d94-c674c4cf032f", 
+					"text":"Dracula's Daughter"					
+				},
+				{
+					"id":"ad5b334c-4e80-41c9-8d94-c674c4cf031g", 
+					"text":"Bride of Frankenstein"					
+				},
+				{
+					"id":"ad5b334c-4e80-41c9-8d94-c674c4cf030h", 
+					"text":"The Astounding She-Monster"					
+				},
+				{
+					"id":"ad5b334c-4e80-41c9-8d94-c674c4cf033j", 
+					"text":"The She-Creature"					
+				}
+				],
+			"correctAnswer":"ad5b334c-4e80-41c9-8d94-c674c4cf031g"
+		},
+				{
+			"id":"da2c104d-3055-4819-af9d-5a83fae2a3f3",
+			"category":"Movies",
+			"title":"Movie Monsters 10",
+			"text":" Who was the first female monster to appear in a movie?",
+			"answers":[
+				{
+					"id":"ad5b334c-4e80-41c9-8d94-c674c4cf032f", 
+					"text":"Dracula's Daughter"					
+				},
+				{
+					"id":"ad5b334c-4e80-41c9-8d94-c674c4cf031g", 
+					"text":"Bride of Frankenstein"					
+				},
+				{
+					"id":"ad5b334c-4e80-41c9-8d94-c674c4cf030h", 
+					"text":"The Astounding She-Monster"					
+				},
+				{
+					"id":"ad5b334c-4e80-41c9-8d94-c674c4cf033j", 
+					"text":"The She-Creature"					
+				}
+				],
+			"correctAnswer":"ad5b334c-4e80-41c9-8d94-c674c4cf031g"
+		},
+				{
+			"id":"da2c104d-3055-4819-af9d-5a83fae2a3f3",
+			"category":"Movies",
+			"title":"Movie Monsters 11",
 			"text":" Who was the first female monster to appear in a movie?",
 			"answers":[
 				{
